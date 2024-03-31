@@ -11,7 +11,7 @@ Fork and Follow my Github [ShikariBaaZ](https://github.com/ShikariBaaZ)
 Heroku is the easiest way to deploy this Bot
 
 # Deploying
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/MentionAll_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/synaxxkhushi/MentionAll_Bot)
 
 ## Support   
 
